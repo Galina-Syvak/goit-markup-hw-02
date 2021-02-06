@@ -32,14 +32,15 @@ body {
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
-  text-decoration: none;
 }
 .nav {
   color: var(--title-text-color);
+  text-decoration: none;
 }
 
 .contact {
   color: var(--primery-text-color);
+  text-decoration: none;
 }
 .nav:hover,
 .nav:focus,
@@ -121,6 +122,7 @@ body {
 }
 .address-link {
   color: var(--address-text-op60);
+  text-decoration: none;
 }
 /* Скрытый заголовок */
 .visually-hidden {
