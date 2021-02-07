@@ -21,7 +21,8 @@ body {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.2; /*31px*/
+  letter-spacing: 0.78px; /*0.03em*/
   text-decoration: none;
 }
 .logo-header {
@@ -31,7 +32,8 @@ body {
 .header {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.1; /* 16px*/
+  letter-spacing: 0.28px; /*0.02em*/
 }
 .nav {
   color: var(--title-text-color);
@@ -58,7 +60,8 @@ body {
   color: var(--white-text-color);
   font-weight: 900;
   font-size: 44px;
-  line-height: 60px;
+  line-height: 1.4; /*60px*/
+  letter-spacing: 2.64px; /*0.06em*/
   text-transform: uppercase;
 }
 .hero-link {
@@ -66,7 +69,8 @@ body {
   background-color: var(--accent-color);
   font-weight: 700;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.9; /*30px*/
+  letter-spacing: 0.96px; /*0.06em*/
   text-decoration: none;
 }
 
@@ -75,14 +79,16 @@ body {
   color: var(--title-text-color);
   font-weight: 700;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.1; /* 16px*/
+  letter-spacing: 0.42px; /*0.03em*/
   text-transform: uppercase;
 }
 .features-description {
   color: var(--primery-text-color);
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.7; /*24px*/
+  letter-spacing: 0.42px; /*0.03em*/
 }
 
 /* Чем мы занимаемся, Команда */
@@ -91,20 +97,23 @@ body {
   color: var(--title-text-color);
   font-weight: 700;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 1.2; /*42px*/
+  letter-spacing: 1.08px; /*0.03em*/
 }
 
 .team-subtitle {
   color: var(--title-text-color);
   font-weight: 500;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.2; /*19px*/
+  letter-spacing: 0.48px; /*0.03em*/
 }
 .team-position {
   color: var(--primery-text-color);
   font-weight: 500;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.2; /*19px*/
+  letter-spacing: 0.48px; /*0.03em*/
 }
 
 /* Подвал страницы */
@@ -112,7 +121,8 @@ body {
   background-color: var(--background);
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.7; /*24px*/
+  letter-spacing: 0.42px; /*0.03em*/
   text-decoration: none;
 }
 
@@ -146,7 +156,8 @@ body {
   background-color: var(--background-button);
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.6; /*26px*/
+  letter-spacing: 0.48px; /*0.03em*/
   border: none;
 }
 .button:hover,
@@ -159,11 +170,13 @@ body {
   color: var(--title-text-color);
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2; /*36px*/
+  letter-spacing: 1.08px; /*0.06em*/
 }
 .project-direction {
   color: var(--primery-text-color);
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.9; /*30px*/
+  letter-spacing: 0.48px; /*0.03em*/
 }
