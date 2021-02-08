@@ -22,7 +22,7 @@ body {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.2; /*31px*/
-  letter-spacing: 0.78px; /*0.03em*/
+  letter-spacing: 0.03em;
   text-decoration: none;
 }
 .logo-header {
@@ -33,7 +33,7 @@ body {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.1; /* 16px*/
-  letter-spacing: 0.28px; /*0.02em*/
+  letter-spacing: 0.02em;
 }
 .nav {
   color: var(--title-text-color);
@@ -61,7 +61,7 @@ body {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.4; /*60px*/
-  letter-spacing: 2.64px; /*0.06em*/
+  letter-spacing: 0.06em;
   text-transform: uppercase;
 }
 .hero-link {
@@ -70,7 +70,7 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 1.9; /*30px*/
-  letter-spacing: 0.96px; /*0.06em*/
+  letter-spacing: 0.06em;
   text-decoration: none;
 }
 
@@ -80,7 +80,7 @@ body {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.1; /* 16px*/
-  letter-spacing: 0.42px; /*0.03em*/
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .features-description {
@@ -88,7 +88,7 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.7; /*24px*/
-  letter-spacing: 0.42px; /*0.03em*/
+  letter-spacing: 0.03em;
 }
 
 /* Чем мы занимаемся, Команда */
@@ -98,7 +98,7 @@ body {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.2; /*42px*/
-  letter-spacing: 1.08px; /*0.03em*/
+  letter-spacing: 0.03em;
 }
 
 .team-subtitle {
@@ -106,14 +106,14 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.2; /*19px*/
-  letter-spacing: 0.48px; /*0.03em*/
+  letter-spacing: 0.03em;
 }
 .team-position {
   color: var(--primery-text-color);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.2; /*19px*/
-  letter-spacing: 0.48px; /*0.03em*/
+  letter-spacing: 0.03em;
 }
 
 /* Подвал страницы */
@@ -122,7 +122,7 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.7; /*24px*/
-  letter-spacing: 0.42px; /*0.03em*/
+  letter-spacing: 0.03em;
   text-decoration: none;
 }
 
@@ -157,7 +157,7 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6; /*26px*/
-  letter-spacing: 0.48px; /*0.03em*/
+  letter-spacing: 0.03em;
   border: none;
 }
 .button:hover,
@@ -171,12 +171,12 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 2; /*36px*/
-  letter-spacing: 1.08px; /*0.06em*/
+  letter-spacing: 0.06em;
 }
 .project-direction {
   color: var(--primery-text-color);
   font-weight: 400;
   font-size: 16px;
   line-height: 1.9; /*30px*/
-  letter-spacing: 0.48px; /*0.03em*/
+  letter-spacing: 0.03em;
 }
